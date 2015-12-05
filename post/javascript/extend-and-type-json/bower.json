@@ -1,0 +1,21 @@
+{
+  "name": "extend-and-type-json",
+  "version": "0.0.1",
+  "authors": [
+    "David Verrière <davidverriere@gmail.com>"
+  ],
+  "description": "Sample for cheesecode.fr",
+  "main": "extendjson.html",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "cheesecode.fr",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
