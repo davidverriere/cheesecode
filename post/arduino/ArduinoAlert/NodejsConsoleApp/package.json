@@ -1,0 +1,14 @@
+{
+  "name": "NodejsConsoleApp",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "david_v",
+    "email": ""
+  },
+  "dependencies": {
+    "serialport": "^2.0.5",
+    "twitter": "^1.2.5"
+  }
+}
